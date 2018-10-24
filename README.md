@@ -4,3 +4,4 @@
 
 A computational workflow for predicting CRISPR PAM sequences from genomic sequences.
 
+![SPAMALOT](spamalot.png)
