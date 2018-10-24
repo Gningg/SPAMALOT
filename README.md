@@ -4,4 +4,3 @@
 
 A computational workflow for predicting CRISPR PAM sequences from genomic sequences.
 
-## Coming September '18
